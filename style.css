@@ -1,0 +1,47 @@
+.svg{
+    height:50px;
+    width:200px;
+}
+
+li{
+    font-weight: bold;
+}
+
+.ad{
+    height:30px;
+}
+
+.dis{
+    height: 90vh;
+    display: flex;
+    flex-wrap: left;
+}
+
+.txt{
+    display: flex;
+    flex-wrap: right;
+}
+.head{
+    font-weight:bolder;
+
+}
+
+.dd{
+    display: flex;
+}
+.mana{
+    width: 90%;
+}
+.pricing{
+    border-radius:8px;
+    border:solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.para{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+}
